@@ -1,0 +1,10 @@
+torch
+torchvision
+torchaudio
+datasets
+transformers
+peft
+evaluate
+accelerate
+diffusers
+gradio==3.50.2
